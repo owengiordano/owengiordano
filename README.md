@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a rising sophomore at Penn State University - Main Campus, pursuing a major in computer science.
 
 <!--
 **owengiordano/owengiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
