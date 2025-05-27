@@ -1,5 +1,9 @@
 ### Hi there 👋
-I am a rising sophomore at Penn State University - Main Campus, pursuing a major in computer science.
+I am a rising senior at Penn State University - Main Campus, pursuing a major in Computer Science with minors in Cyber Security and Engineering Leadership Development.
+
+🔭 I’m currently working on Dija, a mobile app that connects students with businesses in downtown State College.
+
+📫 How to reach me: owengiord@gmail.com
 
 <!--
 **owengiordano/owengiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
